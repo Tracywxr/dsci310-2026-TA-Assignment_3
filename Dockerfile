@@ -23,3 +23,5 @@ COPY . .
 
 USER rstudio
 CMD ["Rscript", "src/use_cowsay.R"]
+
+
